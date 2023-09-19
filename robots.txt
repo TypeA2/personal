@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://typea2.n//sitemap.xml
+Sitemap: https://typea2.nl//sitemap.xml

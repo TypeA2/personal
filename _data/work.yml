@@ -1,0 +1,19 @@
+- start: 2020-09-01
+  end: 2023-08-31
+  location: Leiden University
+  position: TA
+  title: Computer Architecture, Operating Systems
+
+- start: 2022-02-01
+  end: 2023-08-31
+  location: Leiden University
+  position: TA
+  title: Computer Networks
+  description: >
+    Fully responsible for managing the practical parts of this course.
+
+- start: 2019-09-01
+  end: 2020-01-31
+  location: Leiden University
+  position: TA
+  title: Programming Techniques

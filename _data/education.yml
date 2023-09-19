@@ -1,0 +1,10 @@
+- start: 2018-09-01
+  end: 2022-09-01
+  location: Leiden University
+  name: BSc Computer Science
+  publications:
+    - label: Thesis
+      description: Parallel code generation using SIMD on multi-core CPUs.
+      links:
+        - label: pdf
+          url: /assets/pdf/ptilopsis-final.pdf

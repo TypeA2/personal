@@ -1,0 +1,28 @@
+<div class="education">
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      {% assign sorted_education = site.data.education | sort: "start" | reverse %}
+      {% for entry in sorted_education %}
+        <tr>
+          <th>{{ entry.start | date: "%b, %Y" }} ~ {{ entry.end | date: "%b, %Y" }}</th>
+          <td>
+            <i>{{ entry.name }}</i>,
+            {{ entry.location }}
+
+            {% if entry.publications != blank %}
+              <br>
+            {% endif %}
+            {% for pub in entry.publications %}
+              <small>{{ pub.label }}:
+                <i>{{ pub.description }}</i>
+                {% for link in pub.links %}
+                  <a href="{{ link.url }}" target="_blank">[{{ link.label }}]</a>
+                {% endfor %}
+              </small>
+            {% endfor %}
+          </td>
+        </tr>
+      {% endfor %}
+    </table>
+  </div>
+</div>

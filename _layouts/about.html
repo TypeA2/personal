@@ -41,6 +41,16 @@ layout: default
             {{ content }}
           </div>
 
+          {% if page.education -%}
+            <h2>Education</h2>
+            {%- include education.html %}
+          {%- endif %}
+
+          {% if page.work -%}
+            <h2>Work</h2>
+            {%- include work.html %}
+          {%- endif %}
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>

@@ -4,10 +4,11 @@
         {
             "label": "build",
             "type": "shell",
+            "dependsOn": [ "clean" ],
             "command": "bundle",
             "args": [
                 "exec", "jekyll", "build",
-                "--lsi",
+                // "--lsi",
                 "--destination", "/var/www/html"
             ]
         },
@@ -17,9 +18,17 @@
             "command": "bundle",
             "args": [
                 "exec", "jekyll", "serve",
-                "--lsi",
+                // "--lsi",
                 "--host", "192.168.17.15",
                 "watch"
+            ]
+        },
+        {
+            "label": "clean",
+            "type": "shell",
+            "command": "rm",
+            "args": [
+                "-r", "/var/www/html"
             ]
         }
     ]

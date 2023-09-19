@@ -1,0 +1,13 @@
+.education, .work {
+    th, td {
+        white-space: nowrap;
+    }
+
+    td:last-child {
+        width: 100%;
+    }
+
+    th {
+        padding-right: 2em;
+    }
+}

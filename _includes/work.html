@@ -1,0 +1,22 @@
+<div class="work">
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      {% assign sorted_work = site.data.work | sort: "start" | reverse %}
+      {% for entry in sorted_work %}
+        <tr>
+          <th>{{ entry.start | date: "%b, %Y" }} ~ {{ entry.end | date: "%b, %Y" }}</th>
+          <td>
+            <i>{{ entry.title }}</i>,
+            {{ entry.position }},
+            {{ entry.location }}
+
+            {% if entry.description != blank %}
+              <br>
+              <small>{{ entry.description }}</small>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </table>
+  </div>
+</div>

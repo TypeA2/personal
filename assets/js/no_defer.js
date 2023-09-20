@@ -10,8 +10,7 @@ $(document).ready(function() {
     // only select tables that are not inside an element with "news" (about page) or "card" (cv page) class
     if($(this).parents('[class*="news"]').length==0 &&
         $(this).parents('[class*="card"]').length==0 &&
-        $(this).parents('[class*="education"]').length==0 &&
-        $(this).parents('[class*="work"]').length==0 &&
+        !this.dataset.simple &&
         $(this).parents('code').length == 0) {
       // make table use bootstrap-table
       $(this).attr('data-toggle','table');

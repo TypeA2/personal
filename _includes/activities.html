@@ -1,8 +1,8 @@
-<div class="work">
+<div class="activities">
   <div class="table-responsive">
-    <table class="table table-sm table-borderless">
-      {% assign sorted_work = site.data.work | sort: "start" | reverse %}
-      {% for entry in sorted_work %}
+    <table class="table table-sm table-borderless" data-simple="true">
+      {% assign sorted_activities = site.data.activities | sort: "start" | reverse %}
+      {% for entry in sorted_activities %}
         <tr>
           <th>{{ entry.start | date: "%b, %Y" }} ~ {{ entry.end | date: "%b, %Y" }}</th>
           <td>

@@ -1,6 +1,6 @@
 <div class="education">
   <div class="table-responsive">
-    <table class="table table-sm table-borderless">
+    <table class="table table-sm table-borderless" data-simple="true">
       {% assign sorted_education = site.data.education | sort: "start" | reverse %}
       {% for entry in sorted_education %}
         <tr>

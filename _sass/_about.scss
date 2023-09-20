@@ -1,4 +1,4 @@
-.education, .work {
+.education, .activities {
     th, td {
         white-space: nowrap;
     }
@@ -10,4 +10,8 @@
     th {
         padding-right: 2em;
     }
+}
+
+.social > .contact-icons > a > i {
+    font-size: 0.75em;
 }

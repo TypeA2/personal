@@ -1,0 +1,814 @@
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 1
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: やがて君になる
+    ja_ro: Yagate Kimi ni Naru
+    en: Bloom into You
+  cover: yagakimi.jpg
+  episodes: 13
+  progress: 13
+  status: completed
+  rating: 10
+  start: 2023-07-18
+  end: 2023-07-20
+  rewatched: 0
+  external:
+    anilist: 101573
+    mal: 37786
+    kitsu: yagate-kimi-ni-naru
+
+- id: 2
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 【推しの子】
+    ja_ro: Oshi no Ko
+    en: Oshi no Ko
+  cover: oshi_no_ko.jpg
+  episodes: 11
+  progress: 11
+  status: completed
+  rating: 10
+  start: 2023-04-22
+  end: 2023-06-30
+  rewatched: 0
+  external:
+    mal: 52034
+    anilist: 150672
+    kitsu: oshi-no-ko
+
+- id: 3
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 安達としまむら
+    ja_ro: Adachi to Shimamura
+    en: Adachi and Shimamura
+  cover: adashima.png
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 10
+  start: 2022-12-22
+  end: 2023-01-18
+  rewatched: 0
+  external:
+    mal: 39790
+    anilist: 109287
+    kitsu: adachi-to-shimamura
+
+- id: 4
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: エンジェルビーツ
+    en: Angel Beats!
+  cover: angel_beats.jpg
+  episodes: 13
+  progress: 13
+  status: completed
+  rating: 10
+  start: 2015-11-22
+  end: 2015-11-24
+  rewatched: 0
+  external:
+    mal: 6547
+    anilist: 6547
+    kitsu: angel-beats
+
+- id: 5
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: エンジェルビーツ特別篇
+    en: Angel Beats! Specials
+  cover: angel_beats_specials.jpg
+  episodes: 2
+  progress: 2
+  status: completed
+  rating: 9
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 9062
+    anilist: 9062
+    kitsu: angel-beats-specials
+
+- id: 6
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: アナザー
+    en: Another
+  cover: another.jpg
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 10
+  start: 2016-04-17
+  end: 2016-04-20
+  rewatched: 1
+  external:
+    mal: 11111
+    anilist: 11111
+    kitsu: another
+
+- id: 7
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: アナザー The Other -因果-
+    en: "Another: The Other - Inga"
+  cover: another_2.jpg
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 8
+  start: 2016-04-22
+  end: 2016-04-22
+  rewatched: 0
+  external:
+    mal: 11701
+    anilist: 11701
+    kitsu: another-the-other-inga
+
+- id: 8
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 蒼き鋼のアルペジオ ‐アルス・ノヴァ‐
+    ja_ro: Aoki Hagane no Arpeggio -Ars Nova-
+    en: Arpeggio of Blue Steel -Ars Nova-
+  cover: arpeggio.jpg
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 18893
+    anilist: 18893
+    kitsu: aoki-hagane-no-arpeggio-ars-nova
+
+- id: 9
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 蒼き鋼のアルペジオ ‐アルス・ノヴァ‐霧くまs
+    ja_ro: Aoki Hagane no Arpeggio -Ars Nova- Kirikumas
+    en: Arpeggio of Blue Steel -Ars Nova- Kirikumas
+  cover: arpeggio.jpg
+  episodes: 13
+  progress: 13
+  status: completed
+  rating: 7
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 23627
+    anilist: 23627
+    kitsu: aoki-hagane-no-arpeggio-ars-nova
+
+- id: 10
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: アークナイツ【黎明前奏/PRELUDE TO DAWN】
+    ja_ro: "Arknights: Reimei Zensou"
+    en: "Arknights: Prelude to Dawn"
+  cover: arknights.jpg
+  episodes: 8
+  progress: 8
+  status: completed
+  rating: 10
+  start: 2022-12-19
+  end: 2022-12-19
+  rewatched: 0
+  external:
+    mal: 50205
+    anilist: 140660
+    kitsu: arknights-reimei-zensou
+
+- id: 11
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ぼっち・ざ・ろっく！
+    ja_ro: Bocchi the Rock!
+    en: BOCCHI THE ROCK!
+  cover: bocchi.jpg
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 10
+  start: 2023-01-09
+  end: 2023-01-15
+  rewatched: 0
+  external:
+    mal: 47917
+    anilist: 130003
+    kitsu: bocchi-the-rock
+
+- id: 12
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ぼくらの七日間戦争
+    ja_ro: Bokura no Nanokakan Sensou
+    en: Seven Days War
+  cover: 7dayswar.jpg
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2020-09-26
+  end: 2020-09-26
+  rewatched: 0
+  external:
+    mal: 37828
+    anilist: 101610
+    kitsu: bokura-no-nanokakan-sensou
+
+- id: 13
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 宇宙海賊キャプテンハーロック
+    ja_ro: Uchuu Kaizoku Captain Harlock
+    en: "Harlock: Space Pirate"
+  cover: harlock.jpg
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 9
+  start: 
+  end: 
+  rewatched: 1
+  external:
+    mal: 17269
+    anilist: 17269
+    kitsu: captain-harlock
+
+- id: 14
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: シャーロット
+    ja_ro: Charlotte
+    en: Charlotte
+  cover: charlotte.jpg
+  episodes: 13
+  progress: 13
+  status: completed
+  rating: 10
+  start: 2015-11-21
+  end: 2015-11-28
+  rewatched: 2
+  external:
+    mal: 28999
+    anilist: 20997
+    kitsu: charlotte
+
+- id: 15
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: シャーロット 特別篇 強い者たち
+    ja_ro: "Charlotte: Tsuyoimono-tachi"
+    en: "Charlotte: The Strong Ones"
+  cover: charlotte2.jpg
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2016-04-09
+  end: 2016-04-09
+  rewatched: 2
+  external:
+    mal: 31553
+    anilist: 21339
+    kitsu: charlotte-special
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 
+
+- id: 
+  display:
+    native: 
+    alt: 
+  titles:
+    ja: 
+    ja_ro: 
+    en: 
+  cover: 
+  episodes: 
+  progress: 
+  status: 
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 
+    anilist: 
+    kitsu: 

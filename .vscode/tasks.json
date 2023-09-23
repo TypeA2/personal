@@ -4,7 +4,7 @@
         {
             "label": "build",
             "type": "shell",
-            "dependsOn": [ "clean" ],
+            "dependsOn": [ "check_var_www_html", "clean" ],
             "command": "bundle",
             "args": [
                 "exec", "jekyll", "build",
@@ -26,6 +26,14 @@
             "command": "rm",
             "args": [
                 "-r", "/var/www/html"
+            ]
+        },
+        {
+            "label": "check_var_www_html",
+            "type": "shell",
+            "command": "ls",
+            "args": [
+                "/var/www/html"
             ]
         }
     ]

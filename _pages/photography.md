@@ -2,10 +2,10 @@
 layout: page
 title: photography
 permalink: /photography/
-description: Anime and manga photography
+description: Anime, manga and real-life photography
 nav: true
 nav_order: 0
-display_categories: [anime, manga]
+display_categories: [anime, manga, real-life]
 horizontal: false
 ---
 

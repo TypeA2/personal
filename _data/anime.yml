@@ -330,131 +330,151 @@
     anilist: 21339
     kitsu: charlotte-special
 
-- id: 
+- id: 16
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: en
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
+    ja: カオスヘッド
+    en: ChäoS;HEAd
+  cover: chaos_head.jpg
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
   start: 
   end: 
-  rewatched: 
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 4975
+    anilist: 4975
+    kitsu: chaos-head
 
-- id: 
+- id: 17
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
+    ja: 超次元ゲイム ネプテューヌ THE ANIMATION
+    ja_ro: Choujigen Game Neptune THE ANIMATION
+    en: Hyperdimension Neptunia
+  cover: neptune.jpg
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
   start: 
   end: 
-  rewatched: 
+  rewatched: 1
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 16157
+    anilist: 16157
+    kitsu: choujigen-game-neptune-the-animation
 
-- id: 
+- id: 18
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: 超次元ゲイム ネプテューヌ THE ANIMATION 約束の永遠（トゥルーエンド）
+    ja_ro: "Choujigen Game Neptune THE ANIMATION: Yakusoku no Eien (True End)"
+    en: "Hyperdimension Neptunia: The Eternity (True Ending) Promised"
+  cover: neptune.jpg
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 8
+  start: 2016-05-08
+  end: 2016-05-08
+  rewatched: 1
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 20479
+    anilist: 20472
+    kitsu: choujigen-game-neptune-the-animation-ova
 
-- id: 
+- id: 19
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
+    ja: コードギアス 亡国のアキト 第２章「引き裂かれし翼竜」
+    ja_ro: "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu"
+    en: "Code Geass: Akito the Exiled - The Wyvern Divided"
+  cover: code_geass_akito_2.jpg
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 8
   start: 
   end: 
-  rewatched: 
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 15197
+    anilist: 15197
+    kitsu: code-geass-akito-the-exiled-2-the-torn-up-wyvern
 
-- id: 
+- id: 20
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
+    ja: コードギアス 反逆のルルーシュ
+    ja_ro: "Code Geass: Hangyaku no Lelouch"
+    en: "Code Geass: Lelouch of the Rebellion"
+  cover: code_geass.jpg
+  episodes: 25
+  progress: 25
+  status: completed
+  rating: 10
   start: 
   end: 
-  rewatched: 
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 1575
+    anilist: 1575
+    kitsu: code-geass-lelouch-of-the-rebellion
 
-- id: 
+- id: 21
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
+    ja: コードギアス 反逆のルルーシュ R2
+    ja_ro: "Code Geass: Hangyaku no Lelouch R2"
+    en: "Code Geass: Lelouch of the Rebellion R2"
+  cover: code_geass_2.jpg
+  episodes: 25
+  progress: 25
+  status: completed
+  rating: 9
   start: 
   end: 
-  rewatched: 
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 2904
+    anilist: 2904
+    kitsu: code-geass-lelouch-of-the-rebellion-r2
+
+- id: 22
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: コードギアス 反逆のルルーシュ R2 Special Edition Zero Requiem
+    ja_ro: "Code Geass: Hangyaku no Lelouch R2 Special Edition Zero Requiem"
+    en: "Code Geass: Lelouch of the Rebellion R2 Special Edition Zero Requiem"
+  cover: code_geass_2.jpg
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 8
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 6768
+    anilist: 6768
+    kitsu: code-geass-lelouch-of-the-rebellion-r2-special-edition-zero-requiem
 
 - id: 
   display:

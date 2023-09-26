@@ -7,6 +7,7 @@
     ja_ro: 
     en: 
   cover: 
+  type:
   episodes: 
   progress: 
   status: 
@@ -28,6 +29,7 @@
     ja_ro: Yagate Kimi ni Naru
     en: Bloom into You
   cover: yagakimi.jpg
+  type: series
   episodes: 13
   progress: 13
   status: completed
@@ -49,6 +51,7 @@
     ja_ro: Oshi no Ko
     en: Oshi no Ko
   cover: oshi_no_ko.jpg
+  type: series
   episodes: 11
   progress: 11
   status: completed
@@ -70,6 +73,7 @@
     ja_ro: Adachi to Shimamura
     en: Adachi and Shimamura
   cover: adashima.png
+  type: series
   episodes: 12
   progress: 12
   status: completed
@@ -90,6 +94,7 @@
     ja: エンジェルビーツ
     en: Angel Beats!
   cover: angel_beats.jpg
+  type: series
   episodes: 13
   progress: 13
   status: completed
@@ -110,6 +115,7 @@
     ja: エンジェルビーツ特別篇
     en: Angel Beats! Specials
   cover: angel_beats_specials.jpg
+  type: series_ova
   episodes: 2
   progress: 2
   status: completed
@@ -130,6 +136,7 @@
     ja: アナザー
     en: Another
   cover: another.jpg
+  type: series
   episodes: 12
   progress: 12
   status: completed
@@ -150,6 +157,7 @@
     ja: アナザー The Other -因果-
     en: "Another: The Other - Inga"
   cover: another_2.jpg
+  type: series_ova
   episodes: 1
   progress: 1
   status: completed
@@ -171,6 +179,7 @@
     ja_ro: Aoki Hagane no Arpeggio -Ars Nova-
     en: Arpeggio of Blue Steel -Ars Nova-
   cover: arpeggio.jpg
+  type: series
   episodes: 12
   progress: 12
   status: completed
@@ -192,6 +201,7 @@
     ja_ro: Aoki Hagane no Arpeggio -Ars Nova- Kirikumas
     en: Arpeggio of Blue Steel -Ars Nova- Kirikumas
   cover: arpeggio.jpg
+  type: series_ova
   episodes: 13
   progress: 13
   status: completed
@@ -213,6 +223,7 @@
     ja_ro: "Arknights: Reimei Zensou"
     en: "Arknights: Prelude to Dawn"
   cover: arknights.jpg
+  type: series
   episodes: 8
   progress: 8
   status: completed
@@ -234,6 +245,7 @@
     ja_ro: Bocchi the Rock!
     en: BOCCHI THE ROCK!
   cover: bocchi.jpg
+  type: series
   episodes: 12
   progress: 12
   status: completed
@@ -255,6 +267,7 @@
     ja_ro: Bokura no Nanokakan Sensou
     en: Seven Days War
   cover: 7dayswar.jpg
+  type: movie
   episodes: 1
   progress: 1
   status: completed
@@ -276,6 +289,7 @@
     ja_ro: Uchuu Kaizoku Captain Harlock
     en: "Harlock: Space Pirate"
   cover: harlock.jpg
+  type: movie
   episodes: 1
   progress: 1
   status: completed
@@ -297,6 +311,7 @@
     ja_ro: Charlotte
     en: Charlotte
   cover: charlotte.jpg
+  type: series
   episodes: 13
   progress: 13
   status: completed
@@ -318,6 +333,7 @@
     ja_ro: "Charlotte: Tsuyoimono-tachi"
     en: "Charlotte: The Strong Ones"
   cover: charlotte2.jpg
+  type: series_ova
   episodes: 1
   progress: 1
   status: completed
@@ -338,6 +354,7 @@
     ja: カオスヘッド
     en: ChäoS;HEAd
   cover: chaos_head.jpg
+  type: series
   episodes: 12
   progress: 12
   status: completed
@@ -359,6 +376,7 @@
     ja_ro: Choujigen Game Neptune THE ANIMATION
     en: Hyperdimension Neptunia
   cover: neptune.jpg
+  type: series
   episodes: 12
   progress: 12
   status: completed
@@ -380,6 +398,7 @@
     ja_ro: "Choujigen Game Neptune THE ANIMATION: Yakusoku no Eien (True End)"
     en: "Hyperdimension Neptunia: The Eternity (True Ending) Promised"
   cover: neptune.jpg
+  type: series_ova
   episodes: 1
   progress: 1
   status: completed
@@ -401,6 +420,7 @@
     ja_ro: "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu"
     en: "Code Geass: Akito the Exiled - The Wyvern Divided"
   cover: code_geass_akito_2.jpg
+  type: series_movie
   episodes: 1
   progress: 1
   status: completed
@@ -422,6 +442,7 @@
     ja_ro: "Code Geass: Hangyaku no Lelouch"
     en: "Code Geass: Lelouch of the Rebellion"
   cover: code_geass.jpg
+  type: series
   episodes: 25
   progress: 25
   status: completed
@@ -443,6 +464,7 @@
     ja_ro: "Code Geass: Hangyaku no Lelouch R2"
     en: "Code Geass: Lelouch of the Rebellion R2"
   cover: code_geass_2.jpg
+  type: series
   episodes: 25
   progress: 25
   status: completed
@@ -464,6 +486,7 @@
     ja_ro: "Code Geass: Hangyaku no Lelouch R2 Special Edition Zero Requiem"
     en: "Code Geass: Lelouch of the Rebellion R2 Special Edition Zero Requiem"
   cover: code_geass_2.jpg
+  type: series_movie
   episodes: 1
   progress: 1
   status: completed
@@ -476,6 +499,367 @@
     anilist: 6768
     kitsu: code-geass-lelouch-of-the-rebellion-r2-special-edition-zero-requiem
 
+- id: 23
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ダンガンロンパ 希望の学園と絶望の高校生 The Animation
+    ja_ro: "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation"
+    en: "Danganronpa: The Animation"
+  cover: danganronpa.jpg
+  type: series
+  episodes: 13
+  progress: 13
+  status: completed
+  rating: 7
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 16592
+    anilist: 16592
+    kitsu: danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation
+
+- id: 24
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: デート・ア・ライブ
+    en: Date A Live
+  cover: date_a_live.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 9
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 15583
+    anilist: 15583
+    kitsu: date-a-live
+
+- id: 25
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: デート・ア・ライブⅡ
+    en: Date A Live II
+  cover: date_a_live_2.jpg
+  type: series
+  episodes: 10
+  progress: 10
+  status: completed
+  rating: 8
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 19163
+    anilist: 19163
+    kitsu: date-a-live-ii
+
+- id: 26
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: デート・ア・ライブ II 狂三スターフェスティバル
+    en: "Date A Live II: Kurumi Star Festival"
+  cover: date_a_live_2_ova.jpg
+  type: series_ova
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 8
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 22961
+    anilist: 20767
+    kitsu: date-a-live-encore-ova
+
+- id: 27
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: デート・ア・ライブⅢ
+    en: Date A Live III
+  cover: date_a_live_3.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
+  start: 2019-07-09
+  end: 2019-07-09
+  rewatched: 0
+  external:
+    mal: 36633
+    anilist: 100722
+    kitsu: date-a-live-III
+
+- id: 28
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: デート・ア・ライブ DATE TO DATE
+    en: "Date A Live: DATE TO DATE"
+  cover: date_a_live_ova.jpg
+  type: series
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 7
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 17641
+    anilist: 17641
+    kitsu: date-a-live-ova
+
+- id: 29
+  display:
+    native: ja
+    alt: ja
+  titles:
+    ja: DRIFTERS
+  cover: drifters.png
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 9
+  start: 2017-01-04
+  end: 2017-01-05
+  rewatched: 0
+  external:
+    mal: 31339
+    anilist: 21123
+    kitsu: drifters-tv
+
+- id: 30
+  display:
+    native: ja
+    alt: ja
+  titles:
+    ja: Fate/Apocrypha
+  cover: fate_apocrypha.jpg
+  type: series
+  episodes: 25
+  progress: 25
+  status: completed
+  rating: 10
+  start: 2018-10-13
+  end: 2018-12-13
+  rewatched: 0
+  external:
+    mal: 34662
+    anilist: 98035
+    kitsu: fate-apocrypha
+
+- id: 31
+  display:
+    native: ja
+    alt: ja
+  titles:
+    ja: Fate/Zero
+  cover: fate_zero.jpg
+  type: series
+  episodes: 13
+  progress: 13
+  status: completed
+  rating: 10
+  start: 2016-06-13
+  end: 2017-08-14
+  rewatched: 0
+  external:
+    mal: 10087
+    anilist: 10087
+    kitsu: fate-zero
+
+- id: 32
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: Fate/Zero 2ndシーズン
+    ja_ro: Fate/Zero 2nd Season
+    en: Fate/Zero Season 2
+  cover: fate_zero_2.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 10
+  start: 2017-08-15
+  end: 2017-09-30
+  rewatched: 0
+  external:
+    mal: 11741
+    anilist: 11741
+    kitsu: fate-zero-2nd-season
+
+- id: 33
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: GATE 自衛隊 彼の地にて、斯く戦えり
+    ja_ro: "GATE: Jieitai Kanochi nite, Kaku Tatakaeri"
+    en: GATE
+  cover: gate.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 10
+  start: 2016-05-25
+  end: 2016-06-01
+  rewatched: 1
+  external:
+    mal: 28907
+    anilist: 20994
+    kitsu: gate-jieitai-kanochi-nite-kaku-tatakaeri
+
+- id: 34
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: GATE 自衛隊 彼の地にて、斯く戦えり 2
+    ja_ro: "GATE: Jieitai Kanochi nite, Kaku Tatakaeri 2"
+    en: GATE 2
+  cover: gate_2.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 10
+  start: 2016-06-07
+  end: 2016-06-08
+  rewatched: 1
+  external:
+    mal: 31637
+    anilist: 21364
+    kitsu: gate-jieitai-kanochi-nite-kaku-tatakaeri-2
+
+- id: 35
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: グッバイ、ドン・グリーズ！
+    en: Goodbye, Don Glees!
+  cover: goodbye_don_glees.jpg
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 9
+  start: 2022-09-25
+  end: 2022-09-25
+  rewatched: 0
+  external:
+    mal: 49345
+    anilist: 136302
+    kitsu: goodbye-donglees
+
+- id: 36
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ハロー!!きんいろモザイク
+    ja_ro: Hello!! Kiniro Mosaic
+    en: Hello!! KINMOZA!
+  cover: kiniro_mosaic_2.png
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
+  start: 2017-05-17
+  end: 2017-07-21
+  rewatched: 0
+  external:
+    mal: 23269
+    anilist: 20654
+    kitsu: hello-kiniro-mosaic
+
+- id: 37
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ひるね姫　～知らないワタシの物語～
+    ja_ro: "Hirune Hime: Shiranai Watashi no Monogatari"
+    en: Napping Princess
+  cover: hirune_hime.jpg
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2017-09-21
+  end: 2017-09-21
+  rewatched: 0
+  external:
+    mal: 33204
+    anilist: 21788
+    kitsu: hirune-hime-shiranai-watashi-no-monogatari
+
+- id: 38
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 偽りの理
+    ja_ro: Itsuwari no Kotowari
+    en: No Rhyme Nor Reason
+  cover: itsuwari_no_kotowari.jpg
+  type: music_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 55987
+    anilist: 
+    kitsu: 
+
+- id: 39
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: けいおん!
+    en: K-ON!
+  cover: k-on.png
+  type: series
+  episodes: 13
+  progress: 13
+  status: completed
+  rating: 8
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 5680
+    anilist: 5680
+    kitsu: k-on
+
 - id: 
   display:
     native: 
@@ -485,6 +869,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -506,6 +891,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -527,6 +913,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -548,6 +935,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -569,6 +957,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -590,6 +979,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -611,6 +1001,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -632,6 +1023,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -653,6 +1045,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -674,6 +1067,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -695,6 +1089,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -716,6 +1111,7 @@
     ja_ro: 
     en: 
   cover: 
+  type: 
   episodes: 
   progress: 
   status: 
@@ -737,90 +1133,7 @@
     ja_ro: 
     en: 
   cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
-  external:
-    mal: 
-    anilist: 
-    kitsu: 
-
-- id: 
-  display:
-    native: 
-    alt: 
-  titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
-  external:
-    mal: 
-    anilist: 
-    kitsu: 
-
-- id: 
-  display:
-    native: 
-    alt: 
-  titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
-  external:
-    mal: 
-    anilist: 
-    kitsu: 
-
-- id: 
-  display:
-    native: 
-    alt: 
-  titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
-  external:
-    mal: 
-    anilist: 
-    kitsu: 
-
-- id: 
-  display:
-    native: 
-    alt: 
-  titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
+  type: 
   episodes: 
   progress: 
   status: 

@@ -860,93 +860,92 @@
     anilist: 5680
     kitsu: k-on
 
-- id: 
+- id: 40
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: en
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: 劇場版 艦これ
+    en: KanColle Movie
+  cover: kancolle_movie.jpg
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 8
+  start: 2017-09-09
+  end: 2017-09-09
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 31418
+    anilist: 21295
+    kitsu: kantai-collection-kancolle-movie
 
-- id: 
+- id: 41
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
+    ja: 艦隊これくしょん -艦これ-
+    ja_ro: "Kantai Collection: KanColle"
+    en: KanColle
+  cover: kancolle.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
   start: 
   end: 
-  rewatched: 
+  rewatched: 1
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 21511
+    anilist: 20553
+    kitsu: kantai-collection
 
-- id: 
+- id: 42
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: きみの声をとどけたい
+    ja_ro: Kimi no Koe wo Todoketai
+    en: I Want to Deliver Your Voice
+  cover: kimi_no_koe.jpg
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 9
+  start: 2017-09-23
+  end: 2017-09-23
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 33218
+    anilist: 21683
+    kitsu: kimi-no-koe-wo-todoketai
 
-- id: 
+- id: 43
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: 君の名は。
+    ja_ro: Kimi no Na wa.
+    en: Your Name.
+  cover: kimi_no_na_wa.jpg
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2023-07-06
+  end: 2023-07-06
+  rewatched: 2
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 32281
+    anilist: 21519
+    kitsu: kimi-no-na-wa
 
 - id: 
   display:

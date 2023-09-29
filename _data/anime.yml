@@ -947,200 +947,218 @@
     anilist: 21519
     kitsu: kimi-no-na-wa
 
-- id: 
+- id: 44
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
+    ja: きんいろモザイク
+    ja_ro: Kiniro Mosaic
+    en: KINMOZA!
+  cover: kiniro_mosaic.png
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
+  start: 2017-03-01
+  end: 2017-05-15
+  rewatched: 0
+  external:
+    mal: 16732
+    anilist: 16732
+    kitsu: kiniro-mosaic
+
+- id: 45
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: きんいろモザイク Pretty Days
+    ja_ro: "Kiniro Mosaic: Pretty Days"
+    en: KINMOZA! Pretty Days
+  cover: kiniro_mosaic_movie.jpg
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 9
+  start: 2017-07-21
+  end: 2017-07-21
+  rewatched: 0
+  external:
+    mal: 33034
+    anilist: 21753
+    kitsu: hello-kiniro-mosaic-special
+
+- id: 46
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 気鬱、白濁す
+    ja_ro: Kiutsu, Hakudakusu
+    en: White Drizzle in Gloom
+  cover: kiutsu_hakudakusu.jpg
+  type: music_movie
+  episodes: 1
+  progress: 1
+  status: completed
   rating: 
   start: 
   end: 
-  rewatched: 
+  rewatched: 0
   external:
-    mal: 
+    mal: 55988
     anilist: 
     kitsu: 
 
-- id: 
+- id: 47
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: この素晴らしい世界に祝福を！
+    ja_ro: Kono Subarashii Sekai ni Shukufuku wo!
+    en: KONOSUBA -God's blessing on this wonderful world!
+  cover: konosuba.jpg
+  type: series
+  episodes: 10
+  progress: 10
+  status: completed
+  rating: 9
+  start: 2016-07-21
+  end: 2016-07-21
+  rewatched: 1
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 30831
+    anilist: 21202
+    kitsu: kono-subarashii-sekai-ni-shukufuku-wo
 
-- id: 
+- id: 48
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: この素晴らしい世界に祝福を！2
+    ja_ro: Kono Subarashii Sekai ni Shukufuku wo! 2
+    en: KONOSUBA -God's blessing on this wonderful world! 2
+  cover: konosuba_2.jpg
+  type: series
+  episodes: 10
+  progress: 10
+  status: completed
+  rating: 9
+  start: 2017-11-28
+  end: 2017-12-09
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 32937
+    anilist: 21699
+    kitsu: kono-subarashii-sekai-ni-shukufuku-wo-2
 
-- id: 
+- id: 49
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: ja_ro
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!
+    ja_ro: "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shufuku wo!"
+    en: "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!"
+  cover: konosuba_ova.jpg
+  type: series_ova
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 8
+  start: 2016-07-21
+  end: 2016-07-21
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 32380
+    anilist: 21574
+    kitsu: kono-subarashii-sekai-ni-shukufuku-wo-ova
 
-- id: 
+- id: 50
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: en
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
+    ja: ラブライブ! School idol project
+    en: Love Live! School Idol Project
+  cover: love_live_sip.jpg
+  type: series
+  episodes: 13
+  progress: 13
+  status: completed
   rating: 
-  start: 
-  end: 
-  rewatched: 
+  start: 2023-08-09
+  end: 2023-08-10
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 15051
+    anilist: 15051
+    kitsu: love-live-school-idol-project
 
-- id: 
+- id: 51
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: en
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: らき☆すた
+    en: Lucky☆Star
+  cover: lucky_star.jpg
+  type: series
+  episodes: 24
+  progress: 24
+  status: completed
+  rating: 9
+  start: 2016-08-01
+  end: 2017-01-09
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 1887
+    anilist: 1887
+    kitsu: lucky-star
 
-- id: 
+- id: 52
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: en
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: らき☆すた OVA
+    en: Lucky☆Star OVA
+  cover: lucky_star_ova.png
+  type: series_ova
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2017-01-10
+  end: 2017-01-10
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 4472
+    anilist: 4472
+    kitsu: lucky-star-ova
 
-- id: 
+- id: 53
   display:
-    native: 
-    alt: 
+    native: ja
+    alt: en
   titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
+    ja: リコリス・リコイル
+    en: Lycoris Recoil
+  cover: lycoris_recoil.jpg
+  type: series
+  episodes: 13
+  progress: 13
+  status: completed
+  rating: 10
+  start: 2022-12-17
+  end: 2022-12-20
+  rewatched: 0
   external:
-    mal: 
-    anilist: 
-    kitsu: 
-
-- id: 
-  display:
-    native: 
-    alt: 
-  titles:
-    ja: 
-    ja_ro: 
-    en: 
-  cover: 
-  type: 
-  episodes: 
-  progress: 
-  status: 
-  rating: 
-  start: 
-  end: 
-  rewatched: 
-  external:
-    mal: 
-    anilist: 
-    kitsu: 
+    mal: 50709
+    anilist: 143270
+    kitsu: lycoris-recoil

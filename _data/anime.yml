@@ -1162,3 +1162,172 @@
     mal: 50709
     anilist: 143270
     kitsu: lycoris-recoil
+
+- id: 54
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 岬のマヨイガ
+    ja_ro: Misaki no Mayoiga
+    en: The House of the Lost on the Cape
+  cover: misaki_no_mayoiga.jpg
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2022-09-25
+  end: 2022-09-25
+  rewatched: 
+  external:
+    mal: 43755
+    anilist: 125838
+    kitsu: misaki-no-mayoiga
+
+- id: 55
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 名もなき何もかも
+    ja_ro: Na mo Naki Nanimo Kamo
+    en: Nameless Name
+  cover: na_mo_naki_nanimo_kamo.jpg
+  type: music_movie
+  episodes: 1
+  progress: 1
+  status: compelted
+  rating: 
+  start: 
+  end: 
+  rewatched: 
+  external:
+    mal: 55986
+    anilist: 
+    kitsu: 
+
+- id: 56
+  display:
+    native: ja
+    alt: ja
+  titles:
+    ja: NEW GAME!
+  cover: new_game.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 9
+  start: 2018-12-17
+  end: 2020-06-29
+  rewatched: 0
+  external:
+    mal: 31953
+    anilist: 21455
+    kitsu: new-game
+
+- id: 57
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: NEW GAME! 私、社員旅行って初めてなので…
+    ja_ro: "NEW GAME!: Watashi, Shainryokoutte Hajimete na no de..."
+    en: "New Game! OVA: My First Time on a Company Vacation..."
+  cover: new_game_ova.jpg
+  type: series_ova
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 9
+  start: 2020-06-30
+  end: 2020-06-30
+  rewatched: 0
+  external:
+    mal: 34277
+    anilist: 97637
+    kitsu: watashi-shain-ryokou-tte-hajimete-na-node
+
+- id: 58
+  display:
+    native: ja
+    alt: ja
+  titles:
+    ja: NEW GAME!!
+  cover: new_game_2.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 10
+  start: 2020-06-30
+  end: 2020-09-22
+  rewatched: 0
+  external:
+    mal: 34914
+    anilist: 98292
+    kitsu: new-game-2
+
+- id: 59
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ノーゲーム・ノーライフ
+    en: No Game, No Life
+  cover: no_game_no_life.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 10
+  start: 2014
+  end: 2014
+  rewatched: 8
+  external:
+    mal: 19815
+    anilist: 19815
+    kitsu: no-game-no-life
+
+- id: 60
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ノーゲーム・ノーライフ ミニ
+    en: No Game No Life Specials
+  cover: no_game_no_life_specials.jpg
+  type: series_ova
+  episodes: 6
+  progress: 6
+  status: completed
+  rating: 9
+  start: 2017-08-27
+  end: 2017-08-27
+  rewatched: 0
+  external:
+    mal: 24991
+    anilist: 20769
+    kitsu: no-game-no-life-specials
+
+- id: 61
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ノーゲーム・ノーライフ ゼロ
+    en: No Game, No Life Zero
+  cover: no_game_no_life_zero.jpg
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2018-07-09
+  end: 2018-07-09
+  rewatched: 0
+  external:
+    mal: 33674
+    anilist: 21875
+    kitsu: no-game-no-life-zero

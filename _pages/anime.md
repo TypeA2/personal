@@ -16,7 +16,7 @@ nav_order: 1
     {% assign alt_title = anime.titles[anime.display.alt] %}
 
     <tr>
-      <td><img src="/assets/img/anime/{{ anime.cover }}" style="max-width: 60px; max-height: 60px"></td>
+      <td><img src="/assets/img/anime/{{ anime.cover | basename }}-80.webp" style="max-width: 60px; max-height: 60px"></td>
 
       <td>{{ native_title }}</td>
       <td>

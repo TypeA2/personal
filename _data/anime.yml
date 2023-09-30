@@ -7,7 +7,7 @@
     ja_ro: 
     en: 
   cover: 
-  type:
+  type: 
   episodes: 
   progress: 
   status: 
@@ -1331,3 +1331,1012 @@
     mal: 33674
     anilist: 21875
     kitsu: no-game-no-life-zero
+
+- id: 62
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: プリンセスコネクト！Re:Dive
+    en: Princess Connect! Re:Dive
+  cover: priconne.png
+  type: series
+  episodes: 13
+  progress: 13
+  status: completed
+  rating: 9
+  start: 2020-09-24
+  end: 2020-12-26
+  rewatched: 0
+  external:
+    mal: 39292
+    anilist: 107871
+    kitsu: princess-connect-redive
+
+- id: 63
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: PSYCHO-PASS サイコパス
+    en: PSYCHO-PASS
+  cover: psycho_pass.jpg
+  type: series
+  episodes: 22
+  progress: 22
+  status: completed
+  rating: 10
+  start: 
+  end: 
+  rewatched: 1
+  external:
+    mal: 13601
+    anilist: 13601
+    kitsu: psycho-pass
+
+- id: 64
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: PSYCHO-PASS サイコパス2
+    en: PSYCHO-PASS 2
+  cover: psycho_pass_2.jpg
+  type: series
+  episodes: 11
+  progress: 11
+  status: completed
+  rating: 9
+  start: 
+  end: 
+  rewatched: 1
+  external:
+    mal: 23281
+    anilist: 20513
+    kitsu: psycho-pass-2
+
+- id: 65
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: PSYCHO-PASS サイコパス3
+    en: PSYCHO-PASS 3
+  cover: psycho_pass_3.jpg
+  type: series
+  episodes: 8
+  progress: 8
+  status: completed
+  rating: 10
+  start: 2022-06-05
+  end: 2022-06-19
+  rewatched: 0
+  external:
+    mal: 39491
+    anilist: 108307
+    kitsu: psycho-pass-3
+
+- id: 66
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: PSYCHO-PASS サイコパス 3 FIRST INSPECTOR
+    en: "PSYCHO-PASS 3: FIRST INSPECTOR"
+  cover: psycho_pass_3_first_inspector.png
+  type: series_ova
+  episodes: 3
+  progress: 3
+  status: completed
+  rating: 10
+  start: 2020-06-21
+  end: 2020-06-22
+  rewatched: 0
+  external:
+    mal: 40858
+    anilist: 113917
+    kitsu: psycho-pass-3-first-inspector
+
+- id: 67
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 劇場版 PSYCHO-PASS サイコパス
+    ja_ro: PSYCHO-PASS Movie
+    en: "PSYCHO-PASS: The Movie"
+  cover: psycho_pass_movie.jpg
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2016-07-17
+  end: 2016-07-17
+  rewatched: 1
+  external:
+    mal: 21339
+    anilist: 20514
+    kitsu: psycho-pass-movie
+
+- id: 68
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: PSYCHO-PASS サイコパス Sinners of the System Case.1 - 罪と罰
+    ja_ro: "PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu"
+    en: "PSYCHO-PASS Sinners of the System: Case.1 Crime and Punishment"
+  cover: psycho_pass_ss_1.jpg
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 8
+  start: 2020-06-19
+  end: 2020-06-19
+  rewatched: 0
+  external:
+    mal: 37440
+    anilist: 102649
+    kitsu: psycho-pass-ss-case-1-tsumi-to-bachi
+
+- id: 69
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: PSYCHO-PASS サイコパス Sinners of the System Case.2 - First Guardian
+    en: "PSYCHO-PASS Sinners of the System: Case.2 First Guardian"
+  cover: psycho_pass_ss_2.jpg
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2020-06-20
+  end: 2020-06-20
+  rewatched: 0
+  external:
+    mal: 37441
+    anilist: 104382
+    kitsu: psycho-pass-ss-case-2-first-guardian
+
+- id: 70
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: PSYCHO-PASS サイコパス Sinners of the System Case.3 - 恩讐の彼方に____
+    ja_ro: "PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____"
+    en: "PSYCHO-PASS Sinners of the System: Case.3 Beyond the Pale of Vengeance"
+  cover: psycho_pass_ss_3.jpg
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2020-06-21
+  end: 2020-06-21
+  rewatched: 0
+  external:
+    mal: 37442
+    anilist: 104990
+    kitsu: psycho-pass-ss-case-3-onshuu-no-kanata-ni
+
+- id: 71
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: Re:ゼロから始める異世界生活
+    ja_ro: Re:Zero kara Hajimeru Isekai Seikatsu
+    en: Re:ZERO -Starting Life in Another World-
+  cover: rezero.jpg
+  type: series
+  episodes: 25
+  progress: 25
+  status: completed
+  rating: 8
+  start: 2016-10-17
+  end: 2017-03-01
+  rewatched: 0
+  external:
+    mal: 31240
+    anilist: 21355
+    kitsu: re-zero-kara-hajimeru-isekai-seikatsu
+
+- id: 72
+  display:
+    native: ja
+    alt: ja
+  titles:
+    ja: Robotics;Notes
+  cover: robotics_notes.jpg
+  type: series
+  episodes: 22
+  progress: 22
+  status: completed
+  rating: 9
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 13599
+    anilist: 13599
+    kitsu: robotics-notes
+
+- id: 73
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 坂本ですが?
+    ja_ro: Sakamoto desu ga?
+    en: Haven't You Heard? I'm Sakamoto
+  cover: sakamoto.png
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 9
+  start: 2017-03-04
+  end: 2017-03-04
+  rewatched: 0
+  external:
+    mal: 32542
+    anilist: 21595
+    kitsu: sakamoto-desu-ga
+
+- id: 74
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: サカサマのパテマ
+    ja_ro: Sakasama no Patema
+    en: Patema Inverted
+  cover: patema.jpg
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2016-12-18
+  end: 2016-12-18
+  rewatched: 1
+  external:
+    mal: 12477
+    anilist: 12477
+    kitsu: sakasama-no-patema
+
+- id: 75
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: さよならの朝に約束の花をかざろう
+    ja_ro: Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+    en: "Maquia: When the Promised Flower Blooms"
+  cover: sayoasa.jpg
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2019-09-26
+  end: 2019-09-26
+  rewatched: 0
+  external:
+    mal: 35851
+    anilist: 99457
+    kitsu: sayonara-no-asa-ni-yakusoku-no-hana-wo-kazarou
+
+- id: 76
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 進撃の巨人
+    ja_ro: Shingeki no Kyojin
+    en: Attack on Titan
+  cover: snk.jpg
+  type: series
+  episodes: 25
+  progress: 25
+  status: completed
+  rating: 7
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 16498
+    anilist: 16498
+    kitsu: attack-on-titan
+
+- id: 77
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: シュタインズ・ゲート
+    ja_ro: Steins;Gate
+  cover: steins_gate.jpg
+  type: series
+  episodes: 24
+  progress: 24
+  status: completed
+  rating: 10
+  start: 
+  end: 
+  rewatched: 3 
+  external:
+    mal: 9253
+    anilist: 9253
+    kitsu: steins-gate
+
+- id: 78
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: シュタインズ・ゲート 横行跋扈のポリオマニア
+    ja_ro: "Steins;Gate: Oukoubakko no Poriomania"
+    en: "Steins;Gate: Egoistic Poriomania"
+  cover: steins_gate_ova.png
+  type: series_ova
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 
+  end: 
+  rewatched: 0 
+  external:
+    mal: 10863
+    anilist: 10863
+    kitsu: steins-gate-egoistic-poriomania
+
+- id: 79
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: サマーゴースト
+    en: Summer Ghost
+  cover: summer_ghost.png
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2022-09-24
+  end: 2022-09-24
+  rewatched: 0
+  external:
+    mal: anime/48171
+    anilist: 130050
+    kitsu: summer-ghost
+
+- id: 80
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: すずめの戸締まり
+    ja_ro: Suzume no Tojimari
+    en: Suzume
+  cover: suzume.jpg
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2023-07-16
+  end: 2023-07-16
+  rewatched: 1
+  external:
+    mal: 50594
+    anilist: 142770
+    kitsu: suzume-no-tojimari
+
+- id: 81
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ソードアート・オンライン
+    en: Sword Art Online
+  cover: sao.jpg
+  type: series
+  episodes: 25
+  progress: 25
+  status: completed
+  rating: 8
+  start: 
+  end: 
+  rewatched: 6
+  external:
+    mal: 11757
+    anilist: 11757
+    kitsu: sword-art-online
+
+- id: 82
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ソードアート・オンライン II
+    en: Sword Art Online II
+  cover: sao_2.jpg
+  type: series
+  episodes: 24
+  progress: 24
+  status: completed
+  rating: 9
+  start: 
+  end: 
+  rewatched: 6
+  external:
+    mal: 21881
+    anilist: 20594
+    kitsu: sword-art-online-ii
+
+- id: 83
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ソードアート・オンライン II
+    en: "Sword Art Online II: Debriefing"
+  cover: sao_2_extra.jpg
+  type: series_special
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 6
+  start: 
+  end: 
+  rewatched: 5
+  external:
+    mal: 27891
+    anilist: 
+    kitsu: sword-art-online-ii-debriefing
+
+- id: 84
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ソードアート・オンライン -オーディナル・スケール-
+    ja_ro: "Sword Art Online: Ordinal Scale"
+    en: "Sword Art Online the Movie: Ordinal Scale"
+  cover: sao_ordinal_scale.png
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2017-11-27
+  end: 2017-11-28
+  rewatched: 0
+  external:
+    mal: 31765
+    anilist: 21403
+    kitsu: sword-art-online-ordinal-scale
+
+- id: 85
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ソードアート・オンライン Extra Edition
+    en: "Sword Art Online: Extra Edition"
+  cover: sao_movie.jpg
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 7
+  start: 
+  end: 
+  rewatched: 4
+  external:
+    mal: 20021
+    anilist: 20021
+    kitsu: sword-art-online-extra-edition
+
+- id: 86
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 天気の子
+    ja_ro: Tenki no Ko
+    en: Weathering With You
+  cover: tenki_no_ko.jpg
+  type: movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 10
+  start: 2023-07-14
+  end: 2023-07-14
+  rewatched: 1
+  external:
+    mal: 38826
+    anilist: 106286
+    kitsu: tenki-no-ko-weathering-with-you
+
+- id: 87
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 徒然チルドレン
+    ja_ro: Tsurezure Children
+    en: Tsuredure Children
+  cover: tsurezure_children.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 10
+  start: 2017-12-10
+  end: 2017-12-12
+  rewatched: 0
+  external:
+    mal: 34902
+    anilist: 98291
+    kitsu: tsurezure-children
+
+- id: 88
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 私がモテないのはどう考えてもお前らが悪い!
+    ja_ro: Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+    en: "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!"
+  cover: watamote.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 9
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 16742
+    anilist: 16742
+    kitsu: watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui
+
+- id: 89
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ゆるゆり
+    en: Yuru Yuri
+  cover: yuru_yuri.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
+  start: 2016-07-22
+  end: 2016-07-24
+  rewatched: 0
+  external:
+    mal: 10495
+    anilist: 10495
+    kitsu: yuru-yuri
+
+- id: 90
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ゆるゆり　なちゅやちゅみ！
+    en: Yuru Yuri Nachuyachumi!
+  cover: yuru_yuri_ova.png
+  type: series_movie
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 9
+  start: 2016-07-31
+  end: 2016-07-31
+  rewatched: 0
+  external:
+    mal: 23225
+    anilist: 20625
+    kitsu: yuru-yuri-ova
+
+- id: 91
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ゆるゆり　なちゅやちゅみ！＋
+    en: Yuru Yuri Nachuyachumi!+
+  cover: yuru_yuri_ova_2.jpg
+  type: series_ova
+  episodes: 2
+  progress: 2
+  status: completed
+  rating: 8
+  start: 2016-07-31
+  end: 2016-08-01
+  rewatched: 0
+  external:
+    mal: 30902
+    anilist: 21214
+    kitsu: yuru-yuri-nachuyachumi
+
+- id: 92
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ゆるゆり さん☆はい！
+    ja_ro: Yuru Yuri San☆Hai!
+    en: YuruYuri Season 3
+  cover: yuru_yuri_3.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
+  start: 2016-07-31
+  end: 2016-07-31
+  rewatched: 0
+  external:
+    mal: 30279
+    anilist: 21088
+    kitsu: yuru-yuri-3
+
+- id: 93
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ゆるゆり♪♪
+    ja_ro: Yuru Yuri♪♪
+    en: YuruYuri Season 2
+  cover: yuru_yuri_2.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 8
+  start: 2016-07-25
+  end: 2016-07-26
+  rewatched: 0
+  external:
+    mal: 12403
+    anilist: 12403
+    kitsu: yuru-yuri-2
+
+- id: 94
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 残響のテロル
+    ja_ro: Zankyou no Terror
+    en: Terror in Resonance
+  cover: zankyou_no_terror.jpg
+  type: series
+  episodes: 11
+  progress: 11
+  status: completed
+  rating: 10
+  start: 
+  end: 
+  rewatched: 0 
+  external:
+    mal: 23283
+    anilist: 20661
+    kitsu: zankyou-no-terror
+
+- id: 95
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 僕だけがいない街
+    ja_ro: Boku dake ga Inai Machi
+    en: ERASED
+  cover: erased.jpg
+  type: series
+  episodes: 12
+  progress: 1
+  status: hold
+  rating: 8
+  start: 2016-03-23
+  end: 
+  rewatched: 0
+  external:
+    mal: 31043
+    anilist: 21234
+    kitsu: boku-dake-ga-inai-machi
+
+- id: 96
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: エロマンガ先生
+    ja_ro: Eromanga Sensei
+  cover: eromanga.jpg
+  type: series
+  episodes: 12
+  progress: 4
+  status: hold
+  rating: 
+  start: 2019-08-19
+  end: 
+  rewatched: 0
+  external:
+    mal: 32901
+    anilist: 21685
+    kitsu: eromanga-sensei
+
+- id: 97
+  display:
+    native: ja
+    alt: ja
+  titles:
+    ja: Fate/stay night
+  cover: fsn.png
+  type: series
+  episodes: 24
+  progress: 3
+  status: hold
+  rating: 
+  start: 2018-03-21
+  end: 
+  rewatched: 0
+  external:
+    mal: 356
+    anilist: 356
+    kitsu: fate-stay-night
+
+- id: 98
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ご注文はうさぎですか？？
+    ja_ro: Gochuumon wa Usagi desu ka??
+    en:  the Order a Rabbit?? Season 2
+  cover: gochuumon_2.jpg
+  type: series
+  episodes: 12
+  progress: 1
+  status: hold
+  rating: 
+  start: 2018-02-03
+  end: 
+  rewatched: 0
+  external:
+    mal: 29787
+    anilist: 21034
+    kitsu: gochuumon-wa-usagi-desu-ka-2
+
+- id: 99
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: ご注文はうさぎですか？
+    ja_ro: Gochuumon wa Usagi desu ka?
+    en: Is the Order a Rabbit?
+  cover: gochuumon.jpg
+  type: series
+  episodes: 12
+  progress: 12
+  status: completed
+  rating: 7
+  start: 2017-12-13
+  end: 2018-01-31
+  rewatched: 0
+  external:
+    mal: 21273
+    anilist: 20517
+    kitsu: gochuumon-wa-usagi-desu-ka
+
+- id: 100
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 未来日記
+    ja_ro: Mirai Nikki
+    en: The Future Diary
+  cover: mirai_nikki.png
+  type: series
+  episodes: 26
+  progress: 8
+  status: hold
+  rating: 8
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 10620
+    anilist: 10620
+    kitsu: mirai-nikki-tv
+
+- id: 101
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: プリンセスコネクト！Re:Dive Season 2
+    en: Princess Connect! Re:Dive Season 2
+  cover: priconne_2.png
+  type: series
+  episodes: 12
+  progress: 1
+  status: hold
+  rating: 
+  start: 2023-01-18
+  end: 
+  rewatched: 0
+  external:
+    mal: 42670
+    anilist: 122808
+    kitsu: princess-connect-re-dive-season-2
+
+- id: 102
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    zh: 少女前线 人形小剧场
+    ja: ドールズフロントライン
+    ja_ro: Dolls' Frontline
+    en: Girls' Frontline
+  cover: dolls_frontline.jpg
+  type: series
+  episodes: 24
+  progress: 12
+  status: hold
+  rating: 8
+  start: 2021-01-05
+  end: 
+  rewatched: 
+  external:
+    mal: 40151
+    anilist: 110521
+    kitsu: dorufuro-iyashi-hen
+
+- id: 103
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ダーリン・イン・ザ・フランキス
+    en: DARLING in the FRANXX
+  cover: ditf.jpg
+  type: series
+  episodes: 24
+  progress: 2
+  status: drop
+  rating: 
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 35849
+    anilist: 99423
+    kitsu: darling-in-the-franxx
+
+- id: 104
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ハイスクールD×D
+    en: High School DxD
+  cover: dxd.jpg
+  type: series
+  episodes: 12
+  progress: 4
+  status: drop
+  rating: 2
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 11617
+    anilist: 11617
+    kitsu: high-school-dxd
+
+- id: 105
+  display:
+    native: ja
+    alt: ja
+  titles:
+    ja: Kiss × Sis
+  cover: kiss_x_sis.jpg
+  type: series
+  episodes: 12
+  progress: 5
+  status: drop
+  rating: 2
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 7593
+    anilist: 7593
+    kitsu: kiss-x-sis-tv
+
+- id: 106
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: 天元突破グレンラガン
+    ja_ro: Tengen Toppa Gurren Lagann
+    en: Gurren Lagann
+  cover: gurren_lagann.jpg
+  type: series
+  episodes: 27
+  progress: 14
+  status: drop
+  rating: 7
+  start: 
+  end: 
+  rewatched: 0
+  external:
+    mal: 2001
+    anilist: 2001
+    kitsu: tengen-toppa-gurren-lagann
+
+- id: 107
+  display:
+    native: ja
+    alt: en
+  titles:
+    ja: ラブライブ! School idol project 2期
+    en: Love Live! School Idol Project 2nd Season
+  cover: love_live_sip_2.jpg
+  type: series
+  episodes: 13
+  progress: 1
+  status: watching
+  rating: 
+  start: 2023-08-16
+  end: 
+  rewatched: 
+  external:
+    mal: 19111
+    anilist: 19111
+    kitsu: love-live-school-idol-project-2nd-season
+
+- id: 108
+  display:
+    native: ja
+    alt: ja_ro
+  titles:
+    ja: この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!
+    ja_ro: "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
+    en: "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!"
+  cover: konosuba_2_ova.jpg
+  type: series_ova
+  episodes: 1
+  progress: 1
+  status: completed
+  rating: 8
+  start: 2017-12-09
+  end: 2017-12-09
+  rewatched: 0
+  external:
+    mal: 34626
+    anilist: 97996
+    kitsu: kono-subarashii-sekai-ni-shukufuku-wo-2-ova

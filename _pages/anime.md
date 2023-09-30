@@ -7,7 +7,8 @@ nav: true
 nav_order: 1
 ---
 <table>
-  {% for anime in site.data.anime %}
+  {% assign anime_sorted = site.data.anime | sorty_media_list_by_title: true %}
+  {% for anime in anime_sorted %}
     {% if anime.id == blank %}
       {% continue %}
     {% endif %}
@@ -16,7 +17,7 @@ nav_order: 1
     {% assign alt_title = anime.titles[anime.display.alt] %}
 
     <tr>
-      <td><img src="/assets/img/anime/{{ anime.cover | basename }}-80.webp" style="max-width: 60px; max-height: 60px"></td>
+      <td><img src="/assets/img/anime/{{ anime.cover | sample: 80 }}" style="max-width: 60px; max-height: 60px"></td>
 
       <td>{{ native_title }}</td>
       <td>
@@ -24,7 +25,7 @@ nav_order: 1
       </td>
       <td>
         <small>
-          {% if anime.start != blank and anime.end != blank %}
+          {% if anime.start != blank or anime.end != blank %}
             <span style="color: #999">{{ anime.start }} ~ {{ anime.end }}</span>
           {% endif %}
         </small>

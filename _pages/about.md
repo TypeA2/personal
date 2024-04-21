@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Rotterdam, The Netherlands
+subtitle: Tokyo, Japan
 
 profile:
   align: right

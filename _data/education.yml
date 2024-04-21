@@ -2,8 +2,8 @@
   location: Tokyo Institute of Technology
   name: Master's Information and Communications engineering
   information:
-    - label: At
-      description: CARAS
+    - label: Lab
+      description: CARAS.
       links:
         - label: homepage
           url: https://titech-caras.github.io/index-en.html

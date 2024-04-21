@@ -4,18 +4,22 @@
       {% assign sorted_education = site.data.education | sort: "start" | reverse %}
       {% for entry in sorted_education %}
         <tr>
+          {% if entry.end == blank %}
+          <th>{{ entry.start | date: "%b, %Y" }} ~ now</th>
+          {% else %}
           <th>{{ entry.start | date: "%b, %Y" }} ~ {{ entry.end | date: "%b, %Y" }}</th>
+          {% endif %}
           <td>
             <i>{{ entry.name }}</i>,
             {{ entry.location }}
 
-            {% if entry.publications != blank %}
+            {% if entry.information != blank %}
               <br>
             {% endif %}
-            {% for pub in entry.publications %}
-              <small>{{ pub.label }}:
-                <i>{{ pub.description }}</i>
-                {% for link in pub.links %}
+            {% for inf in entry.information %}
+              <small>{{ inf.label }}:
+                <i>{{ inf.description }}</i>
+                {% for link in inf.links %}
                   <a href="{{ link.url }}" target="_blank">[{{ link.label }}]</a>
                 {% endfor %}
               </small>

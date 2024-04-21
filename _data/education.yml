@@ -1,8 +1,17 @@
+- start: 2024-04-01
+  location: Tokyo Institute of Technology
+  name: Master's Information and Communications engineering
+  information:
+    - label: At
+      description: CARAS
+      links:
+        - label: homepage
+          url: https://titech-caras.github.io/index-en.html
 - start: 2018-09-01
   end: 2022-09-01
   location: Leiden University
   name: BSc Computer Science
-  publications:
+  information:
     - label: Thesis
       description: Parallel code generation using SIMD on multi-core CPUs.
       links:
